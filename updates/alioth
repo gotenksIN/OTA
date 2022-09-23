@@ -1,0 +1,15 @@
+{
+  "updates": [
+    {
+                  "date": "2022-09-24",
+                  "datetime": "20220924",
+                  "filename": "aospa-topaz-1-alioth-unofficial-20220924.zip",
+                  "url": "https://github.com/gotenksIN/ota/releases/download/1.0/aospa-topaz-1-alioth-unofficial-20220924.zip",
+                  "id": "",
+                  "size": "",
+                  "romtype": "Release",
+                  "number" : "1",
+                  "version": "Alpha"
+    }
+  ]
+}
